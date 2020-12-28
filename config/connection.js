@@ -1,6 +1,3 @@
-// base code from activity 28. will need to update db name
-
-
 const Sequelize = require('sequelize');
 require('dotenv').config();
 
