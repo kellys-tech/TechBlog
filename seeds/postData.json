@@ -1,4 +1,6 @@
-{
+[
+    {
     "title": "Agile Testing Methods",
     "content": "Behavior Driven Development, Acceptance Test Driven Development, Exploratory Testing"
-}
+    }
+]

@@ -1,3 +1,5 @@
+
+//do we need this? if so, need to update with what is in handlebars files
 const newFormHandler = async (event) => {
     event.preventDefault();
 
