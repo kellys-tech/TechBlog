@@ -1,7 +1,17 @@
 [
     {
-    "name":"Kelly",
-    "email":"kdalton_77@hotmail.com",
-    "password":"password1234"
+      "name": "Do",
+      "email": "do@gmail.com",
+      "password": "p1234"
+    },
+    {
+      "name": "Re",
+      "email": "re@gmail.com",
+      "password": "p2345"
+    },
+    {
+      "name": "Mi",
+      "email": "mi@gmail.com",
+      "password": "p3456"
     }
-]
+  ]
